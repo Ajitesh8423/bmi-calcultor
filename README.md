@@ -3,7 +3,7 @@
   int main (){
   float a, b,c;
   cout<<"calculate ur bmi \n ";
-   cout<<"enter ur weight and height repectively\n";
+   cout<<"enter your's weight and height repectively\n";
   cin>>a>>b;
   
   c=a/b/b;
