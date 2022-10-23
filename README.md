@@ -6,7 +6,7 @@
    cout<<"enter your's weight and height repectively\n";
   cin>>a>>b;
   
-  c=a/b/b;
+  c=(a/b)/b;
   
                      
    if(c>=25 ){
